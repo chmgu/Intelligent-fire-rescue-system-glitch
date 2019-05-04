@@ -1,1 +1,1 @@
-asd
+python code.py
