@@ -1,7 +1,7 @@
 import web
 
 urls = (
-'/input', 'index'
+'/input', 'index', '/', 'index'
 )
 
 class index:
